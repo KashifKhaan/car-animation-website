@@ -4,7 +4,7 @@ Moving Car Website is a simple HTML website that displays a moving car animation
 
 ## Screenshots
 
-<img width="808" alt="image" src="https://github.com/KashifKhaan/Note-Taking-Application-Java/assets/88695658/019b08e3-4d19-4743-a82e-77251d85f870">
+![ezgif com-video-to-gif (1)](https://github.com/KashifKhaan/Note-Taking-Application-Java/assets/88695658/0c77405d-2bb1-47e2-a014-96a174f256ef)
 
 
 ## Getting Started
